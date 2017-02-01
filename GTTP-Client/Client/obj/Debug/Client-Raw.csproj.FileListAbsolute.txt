@@ -1,0 +1,18 @@
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\bin\Debug\ClientRaw.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\bin\Debug\ClientRaw.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\Client-Raw.csprojResolveAssemblyReference.cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientRaw.MainForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientRaw.Properties.Resources.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientRaw.RatioForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\Client-Raw.csproj.GenerateResource.Cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientRaw.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientRaw.pdb
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\ClientRaw.exe
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\ClientRaw.pdb
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\bin\Debug\ClientRaw.exe
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\bin\Debug\ClientRaw.pdb
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\Client-Raw.csprojResolveAssemblyReference.cache
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\ClientRaw.MainForm.resources
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\ClientRaw.Properties.Resources.resources
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\ClientRaw.RatioForm.resources
+C:\Docs\Genome Project with coompression final\Client-Normal\Client\obj\Debug\Client-Raw.csproj.GenerateResource.Cache

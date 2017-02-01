@@ -1,0 +1,11 @@
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\bin\Debug\ClientTwoBits.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\bin\Debug\ClientTwoBits.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\Client-TwoBit.csprojResolveAssemblyReference.cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\ClientTwoBits.Properties.Resources.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\Client-TwoBit.csproj.GenerateResource.Cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\ClientTwoBits.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\ClientTwoBits.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\ClientTwoBits.RatioForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-TwoBits\Client\obj\Debug\ClientTwoBits.MainForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientTwoBits.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Client-Normal\Client\obj\Debug\ClientTwoBits.pdb
