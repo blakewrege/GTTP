@@ -1,0 +1,30 @@
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\bin\Debug\gttp.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\bin\Debug\gttp.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\GenomeServer.csprojResolveAssemblyReference.cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\httpMethodsApp.HuffmanForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\httpMethodsApp.MainForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\httpMethodsApp.Properties.Resources.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\httpMethodsApp.SamplingPeriodsForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\GenomeServer.csproj.GenerateResource.Cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\gttp.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\httpMethodsApp\obj\Debug\gttp.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\bin\Debug\GenomeServer.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\bin\Debug\GenomeServer.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\httpMethodsApp.HuffmanForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\httpMethodsApp.MainForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\GenomeServer.Properties.Resources.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\httpMethodsApp.SamplingPeriodsForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\GenomeServer.csproj.GenerateResource.Cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\GenomeServer.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\genome\Server\GenomeServer\obj\Debug\GenomeServer.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\bin\Debug\GenomeServer.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\bin\Debug\GenomeServer.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\GenomeServer.csprojResolveAssemblyReference.cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\httpMethodsApp.HuffmanForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\httpMethodsApp.MainForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\GenomeServer.Properties.Resources.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\httpMethodsApp.SamplingPeriodsForm.resources
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\GenomeServer.csproj.GenerateResource.Cache
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\GenomeServer.exe
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\GenomeServer.pdb
+C:\Users\HusseinVPC\Desktop\C_Projects\Genome Project\Genome Server\GenomeServer\obj\Debug\ServerClient.AppSettingsForm.resources

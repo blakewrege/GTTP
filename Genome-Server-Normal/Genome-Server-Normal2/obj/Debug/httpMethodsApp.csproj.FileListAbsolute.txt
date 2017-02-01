@@ -1,0 +1,8 @@
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\bin\Debug\httpMethodsApp.exe
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\bin\Debug\httpMethodsApp.pdb
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\obj\Debug\httpMethodsApp.csprojResolveAssemblyReference.cache
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\obj\Debug\httpMethodsApp.MainForm.resources
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\obj\Debug\httpMethodsApp.Properties.Resources.resources
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\obj\Debug\httpMethodsApp.csproj.GenerateResource.Cache
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\obj\Debug\httpMethodsApp.exe
+C:\Users\HusseinVPC\Documents\Visual Studio 2012\Projects\httpMethodsApp\httpMethodsApp\obj\Debug\httpMethodsApp.pdb
